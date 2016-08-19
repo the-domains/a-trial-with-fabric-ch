@@ -12,5 +12,10 @@ color:
     - '#AEEE00'
 layout_spectrum: 0.5086906063370407
 name: A trial with fabric | ch
+style: taylor
+navigation:
+  - name: My company
+    url: 'http://www.fabric.ch'
+    type: external
 title: Hello World Indeed
 description: Cheers
