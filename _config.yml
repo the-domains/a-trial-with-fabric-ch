@@ -17,5 +17,8 @@ navigation:
   - name: My company
     url: 'http://www.fabric.ch'
     type: external
+  - name: Public Platform of Future-Past
+    id: f2f3e7d3-72cb-44fd-a57d-3957e756ba19
+    type: content
 title: Hello World Indeed
 description: Cheers
