@@ -24,19 +24,16 @@ description: >-
   of the Platform project, for which we were mandated by Canton de Vaud (SiPAL).
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://blog.fabric.ch/index.php?/archives/2668-Public-Platform-of-Future-Past,-extended-study-phase.-Bots,-Ar.I.-tools-data-monitoring-architecture.html
 title: >-
   Public Platform of Future-Past, extended study phase. Bots, "Ar.I." & tools? |
   #data #monitoring #architecture - fabric | rblg
-datePublished: '2016-08-19T08:29:35.321Z'
-dateModified: '2016-08-19T08:27:57.971Z'
+datePublished: '2016-08-19T10:07:08.060Z'
+dateModified: '2016-08-19T10:07:07.602Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-public-platform-of-future-past-extended-study-phase-bots.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: public-platform-of-future-past-extended-study-phase-bots/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
